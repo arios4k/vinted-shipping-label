@@ -1,0 +1,4 @@
+pypdfium2
+Pillow
+numpy
+img2pdf
